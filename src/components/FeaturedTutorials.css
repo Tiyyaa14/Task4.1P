@@ -1,0 +1,41 @@
+.featured-tutorials {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.featured-tutorials h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.featured-tutorials .ui.card .content .header {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2d9e77 !important;;
+}
+
+.featured-tutorials .ui.card .content .description {
+  color: #555;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.featured-tutorials .ui.card .content.extra {
+  font-size: 12px;
+  color: #888;
+}
+
+.view-button {
+  background-color: #4CAF50;
+  color: #fff;
+  margin-top: 20px;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.view-button:hover {
+  background-color: #45a049;
+}

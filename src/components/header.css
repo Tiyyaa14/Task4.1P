@@ -1,0 +1,42 @@
+
+.ui.menu {
+  background-color: #2d9e77 !important;
+  border: none;
+}
+
+.ui.menu .item {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 14px 20px;
+}
+
+.ui.menu .item:hover {
+  background-color: #7e7b7b;
+}
+
+.ui.menu .item[name="home"] {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.ui.input {
+  width: 200px;
+}
+
+.ui.input > input {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.ui.menu .item[name="post"],
+.ui.menu .item[name="login"] {
+  background-color: #4CAF50;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.ui.menu .item[name="post"]:hover,
+.ui.menu .item[name="login"]:hover {
+  background-color: #3e8e41;
+}

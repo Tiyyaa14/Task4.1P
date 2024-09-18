@@ -1,0 +1,34 @@
+
+.subscription-section {
+    background-color: #f9f9f9;
+    padding: 40px 0;
+  }
+  
+  .subscription-section h4 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .subscription-section .ui.input {
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .subscription-section .ui.input > input {
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .subscription-section .ui.button {
+    background-color: #278460; 
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  .subscription-section .ui.button:hover {
+    background-color: #1678c2;
+  }
+  
